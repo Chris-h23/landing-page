@@ -34,3 +34,42 @@ nav {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hero-card {
+    padding: 8px;
+    width: 33%;
+    
+}
+
+.hero-title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-txt {
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 16px 8px;
+}
+
+.hero-card button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.hero-img {
+    width: 300px;
+    height: 225px;
+    align-self: center;
+}
