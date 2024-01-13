@@ -12,7 +12,7 @@ header {
 
 nav {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     padding: 1rem;
 }
 
@@ -72,4 +72,29 @@ nav {
     width: 300px;
     height: 225px;
     align-self: center;
+}
+
+    /* Info Section Starts Here*/ 
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.info h2 {
+    margin: 16px 100%;
+    text-wrap: nowrap;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.info-card {
+    text-align: center;
+    
+}
+
+.info-card img {
+    width: 200px;
 }
