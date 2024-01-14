@@ -92,9 +92,13 @@ nav {
 
 .info-card {
     text-align: center;
-    
+    margin-top: 2rem;
+    margin-bottom: 4rem;
 }
 
 .info-card img {
-    width: 200px;
+    width: 150px;
+    border-style: solid;
+    border-color: #3882f6;
 }
+
