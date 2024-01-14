@@ -102,3 +102,19 @@ nav {
     border-color: #3882f6;
 }
 
+    /* Quote Section Starts Here */
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 200px;
+}
+
+.quote p {
+    font-size: 32px;
+    font-style: italic;
+}
+
+.quote h6 {
+    font-size: 32px;
+    text-align: right;
+}
