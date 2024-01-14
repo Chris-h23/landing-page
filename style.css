@@ -154,3 +154,16 @@ nav {
     border-radius: 25px;
     padding: 1rem;
 }
+
+    /* Footer Starts Here */
+
+footer {
+    background-color: #1f2937;
+    text-align: center;
+    padding: 25px;
+}
+
+footer p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
